@@ -1,3 +1,5 @@
+[Polityka plików cookie w witrynie internetowej dotyczącej konta Samsung account.html](https://github.com/user-attachments/files/26319225/Polityka.plikow.cookie.w.witrynie.internetowej.dotyczacej.konta.Samsung.account.html)
+[Warunki korzystania z usługi.html](https://github.com/user-attachments/files/26319224/Warunki.korzystania.z.uslugi.html)
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
